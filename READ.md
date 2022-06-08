@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Ed%20Sheeran&desc=Bad%20habits&fontSize=50&fontAlignY=35&descAlign=59)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&desc=happyBad%20habits&fontSize=50&fontAlignY=35&descAlign=59)
 
 # Welcome
 >대전도안고등학교

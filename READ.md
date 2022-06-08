@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&desc=happy&fontSize=50&fontAlignY=35&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&desc=happy&fontSize=50&fontAlignY=35&descAlign=53)
 
 # Welcome
 >대전도안고등학교

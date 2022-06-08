@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&desc=Bad%20habits&frontSize=354)
+![header](https://capsule-render.vercel.app/api?type=waving&desc=Bad%20habits&fontSize=50)

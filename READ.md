@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Ed%20Sheeran&desc=Bad%20habits&fontSize=50$fontAlignY=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Ed%20Sheeran&desc=Bad%20habits&fontSize=200$fontAlignY=50)

@@ -3,4 +3,5 @@
 # Welcome
 >대전도안고등학교
 
+# 활동 내역 정리
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lifecream&repo=2022-Ctrl-C-Activities)](http://github.com/Lifecream/2022-Ctrl-C-Activities)

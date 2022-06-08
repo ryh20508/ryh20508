@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&desc=Bad habits)
+![header](https://capsule-render.vercel.app/api?type=waving&desc=Badhabits)

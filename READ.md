@@ -1,3 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Ed%20Sheeran&desc=Bad%20habits&fontSize=50&fontAlignY=35&descAlign=59)
 
-(https://github.com/anuraghazra/github-readme-stats)
+# Welcome
+>대전도안고등학교
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lifecream&repo=2022-Ctrl-C-Activities)](http://github.com/Lifecream/2022-Ctrl-C-Activities)
